@@ -1,8 +1,8 @@
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Consolas', sans-serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #FaFaFa;
+	background-color: #e4b040;
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -11,13 +11,15 @@ body {
 	padding: 0;
 	margin-top: 40px;
 }
-
+h2 {
+	margin-top: 5rem;
+}
 h3 {
   margin-top: 30px;
 }
 
 .footer {
-	margin-top: 40px;
+	margin-top: 10rem;
 }
 
 code {
